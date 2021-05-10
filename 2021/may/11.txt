@@ -1,3 +1,7 @@
+Site: Reddit
+Page: Chodi
 Link: https://old.reddit.com/r/Chodi/comments/n90yn5/plus_persecution_of_hindus_in_p%C3%A1kistan_happens_on/gxltzx9/
-Text: And the dumbest shit is when Muslims of our country cry their hearts for Palestinians but never raise the same voice for Uiygurs, not that they're better.
-Image: reddit/imgs/gxltzx9.jpg
+Comment: And the dumbest shit is when Muslims of our country cry their hearts for Palestinians but never raise the same voice for Uiygurs, not that they're better.
+Image: https://github.com/antiHateProject/antiHateProject/blob/b487525a84dc8fb8ad3d8907c3dc36f17da9d8d3/2021/may/img/gxltzx9.jpg
+Status: reported
+
